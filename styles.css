@@ -1,0 +1,91 @@
+/*This is the code of css for onepage website*/
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 50px 20px;
+   
+}
+.navbar-home {
+  background-color: white;
+  border-color: none;
+  border-radius: 0px;
+  color: white;
+  margin-bottom: 29px;
+}
+
+.plans {
+  /*margin: 40px 0;*/
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+
+
+li > img {
+  margin-right: 15px;
+  margin-top: 30px;
+}
+
+.size {
+  margin-right: 390px;
+}
+.navbar-home .navbar-nav > li > a {
+  color: gray;
+  font-size: bold;
+  font-weight: 20px;
+  margin-top: 15px;
+  margin-right: 30px;
+}
+
+.navbar-home .navbar-brand {
+  color: #fff;
+  font-weight: bold;
+}
+.about-us {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.plans-type {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+/* footer code*/
+h1 {
+  color: lightslategray;
+}
+.gold {
+  color: gold;
+}
+
+p {
+  text-align: justify;
+}
+h5 {
+  color: yellow;
+}
+h6 {
+  color: white;
+}
+footer {
+  margin-bottom: 100px;
+  margin-top: 50px;
+  text-align: center;
+  padding-top: 3px;
+  padding-bottom: 20px;
+}
+.gh {
+  text-align: center;
+  font-weight: lighter;
+}
+.main-content {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /*margin: 30px; */
+  padding: 0 100px;
+}
+/*plans details*/
+.marbtm{
+  margin-bottom:31px;
+}
+.margin-bottom{
+  margin-bottom:12px;
+}
